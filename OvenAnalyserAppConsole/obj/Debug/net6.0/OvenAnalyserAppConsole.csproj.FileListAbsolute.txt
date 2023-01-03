@@ -1,0 +1,15 @@
+C:\Users\cmill\source\repos\OvenAnalyserAppConsole\OvenAnalyserAppConsole\bin\Debug\net6.0\OvenAnalyserAppConsole.exe
+C:\Users\cmill\source\repos\OvenAnalyserAppConsole\OvenAnalyserAppConsole\bin\Debug\net6.0\OvenAnalyserAppConsole.deps.json
+C:\Users\cmill\source\repos\OvenAnalyserAppConsole\OvenAnalyserAppConsole\bin\Debug\net6.0\OvenAnalyserAppConsole.runtimeconfig.json
+C:\Users\cmill\source\repos\OvenAnalyserAppConsole\OvenAnalyserAppConsole\bin\Debug\net6.0\OvenAnalyserAppConsole.dll
+C:\Users\cmill\source\repos\OvenAnalyserAppConsole\OvenAnalyserAppConsole\bin\Debug\net6.0\OvenAnalyserAppConsole.pdb
+C:\Users\cmill\source\repos\OvenAnalyserAppConsole\OvenAnalyserAppConsole\obj\Debug\net6.0\OvenAnalyserAppConsole.csproj.AssemblyReference.cache
+C:\Users\cmill\source\repos\OvenAnalyserAppConsole\OvenAnalyserAppConsole\obj\Debug\net6.0\OvenAnalyserAppConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cmill\source\repos\OvenAnalyserAppConsole\OvenAnalyserAppConsole\obj\Debug\net6.0\OvenAnalyserAppConsole.AssemblyInfoInputs.cache
+C:\Users\cmill\source\repos\OvenAnalyserAppConsole\OvenAnalyserAppConsole\obj\Debug\net6.0\OvenAnalyserAppConsole.AssemblyInfo.cs
+C:\Users\cmill\source\repos\OvenAnalyserAppConsole\OvenAnalyserAppConsole\obj\Debug\net6.0\OvenAnalyserAppConsole.csproj.CoreCompileInputs.cache
+C:\Users\cmill\source\repos\OvenAnalyserAppConsole\OvenAnalyserAppConsole\obj\Debug\net6.0\OvenAnalyserAppConsole.dll
+C:\Users\cmill\source\repos\OvenAnalyserAppConsole\OvenAnalyserAppConsole\obj\Debug\net6.0\refint\OvenAnalyserAppConsole.dll
+C:\Users\cmill\source\repos\OvenAnalyserAppConsole\OvenAnalyserAppConsole\obj\Debug\net6.0\OvenAnalyserAppConsole.pdb
+C:\Users\cmill\source\repos\OvenAnalyserAppConsole\OvenAnalyserAppConsole\obj\Debug\net6.0\OvenAnalyserAppConsole.genruntimeconfig.cache
+C:\Users\cmill\source\repos\OvenAnalyserAppConsole\OvenAnalyserAppConsole\obj\Debug\net6.0\ref\OvenAnalyserAppConsole.dll
